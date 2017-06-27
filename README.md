@@ -1,6 +1,6 @@
-# Sains
+# Web parser
 
-This is the code for the my London adventure! It parses a webpage looking for products information.
+First code for a new adventure! It parses a webpage looking for products information.
 
 ## Usage
 
